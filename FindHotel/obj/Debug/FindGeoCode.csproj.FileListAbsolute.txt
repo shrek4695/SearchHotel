@@ -1,0 +1,2 @@
+C:\Users\skapoor\source\repos\FindHotel\FindHotel\obj\Debug\FindGeoCode.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\FindHotel\FindHotel\obj\Debug\FindGeoCode.csproj.CoreCompileInputs.cache
